@@ -12,9 +12,10 @@ I'm currently enrolled in the **Computer Systems Technology** program at **BCIT*
 - **Templating Engines:** EJS
 
 ### ☁️ Cloud & DevOps
-- Microsoft Azure
+- Microsoft Azure (Web App for Containers, Function App, Static Web Apps, Key Vault)
 - Docker
 - GitHub Actions (CI/CD)
+- Jenkins (CI/CD)
 - Postman (API testing)
 
 ### 🛠️ Programming Languages
@@ -24,6 +25,8 @@ I'm currently enrolled in the **Computer Systems Technology** program at **BCIT*
 - PHP
 - R
 - C
+- C#
+- Swift
 
 ### 🗃️ Databases
 - Firebase
