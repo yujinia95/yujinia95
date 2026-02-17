@@ -1,6 +1,8 @@
 ## Hi there 👋 I'm Yujin Jeong
 
-I'm currently enrolled in the **Computer Systems Technology** program at **BCIT**, where I’m developing strong technical skills with a passion for **Web Development** and **Cloud Technologies**.
+BCIT **Computer Systems Technology graduate**, currently **gaining hands-on experience at SAP as a Cloud Engineering Intern**.  
+I’m passionate about building scalable cloud-native applications and aim to grow into a **Solutions Architect role**.
+
 
 ---
 
@@ -47,17 +49,3 @@ I'm currently enrolled in the **Computer Systems Technology** program at **BCIT*
 ## 🔗 Other Profiles
 - 🌐 [GitLab Portfolio](https://gitlab.com/te0209494)
 
-<!--
-**yujinia95/yujinia95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
